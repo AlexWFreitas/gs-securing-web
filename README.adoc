@@ -275,7 +275,7 @@ include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/
 
 == Edits by Alex
 
-Since withDefaultPasswordEncoder was deprecated, I tried to autowire a Bcrypt Encoder instead.
+Since withDefaultPasswordEncoder was deprecated, I tried to autowire a Bcrypt Encoder instead.  
 Based on the link below.
 
 * https://www.baeldung.com/spring-security-registration-password-encoding-bcrypt
